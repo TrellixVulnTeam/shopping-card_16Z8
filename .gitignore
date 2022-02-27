@@ -100,7 +100,6 @@ project/boot/
 
 # sbt specific
 .lib/
-dist/*
 project/plugins/project/
 
 # Scala-IDE specific
